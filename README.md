@@ -1,4 +1,4 @@
-# Oiee, eu sou a Thainá Fernandes 👋
+# Hello world! Eu sou a Thainá Fernandes 👋
 
 ## Sobre mim
 Sou uma estudante entusiasta da área de tecnologia, atualmente curso ciência da computação. Gosto de testar, aprender, resolver problemas e compartilhar conhecimento através de projetos.
