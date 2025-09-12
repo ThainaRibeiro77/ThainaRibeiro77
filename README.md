@@ -1,7 +1,8 @@
 # Hello world! Eu sou a Thainá Fernandes 👋
 
 ## Sobre mim
-Sou uma estudante entusiasta da área de tecnologia, atualmente curso ciência da computação. Gosto de testar, aprender, resolver problemas e compartilhar conhecimento através de projetos.
+Sou uma estudante entusiasta da área de tecnologia, atualmente curso ciência da computação. 
+Gosto de testar, aprender, resolver problemas e compartilhar conhecimento através de projetos.
 
 - 🌱 Estudando: **Node.js, Python, MySQL e Metodologias ágeis**
 - 📫 Como me encontrar: [LinkedIn](linkedin.com/in/thaina-fernandes77/) • email: thaina.fribeiro77@gmail.com
