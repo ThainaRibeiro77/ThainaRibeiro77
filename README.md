@@ -52,7 +52,5 @@ Gosto de testar, aprender, resolver problemas e compartilhar conhecimento atravÃ
 
 <br/>
 <br/>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThainaRibeiro77&show_icons=true&theme=dark"/>
-<div>
+
 </div>
